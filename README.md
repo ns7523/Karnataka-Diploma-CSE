@@ -1,5 +1,5 @@
 ## DEPARTMENT OF COLLEGIATE AND TECHNICAL EDUCATION
-# Diploma in Computer Science & Engineering
+## Diploma in Computer Science & Engineering
 ### C-20 Curriculum Development
 
 ---
