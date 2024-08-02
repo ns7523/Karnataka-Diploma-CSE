@@ -1,0 +1,16 @@
+string1="BGS Polytechnic CSE 3rd sem"
+print(string1)
+print(string1[2])
+print(string1[-1])
+print(string1[4:8])
+print(string1[:4])
+print(string1[4:])
+print(string1.capitalize())
+print(string1.upper())
+print(string1.isupper())
+print(string1.lower())
+print(string1.title())
+print(string1.swapcase())
+print(string1.find("S"))
+print(string1.count("E"))
+

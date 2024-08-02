@@ -1,0 +1,8 @@
+a=int(input("ENTER A NUMBER : "))
+print("BIN : ",bin(a))
+print("OCT : ",oct(a))
+print("HEXA : ",hex(a))
+print("Square : ",pow(a,2))
+print("CUBE :",pow(a,3))
+print("BUILT IN :",len(dir(__builtins__)))
+print("BUILT INS:",dir(__builtins__))
