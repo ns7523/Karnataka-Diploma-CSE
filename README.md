@@ -33,7 +33,7 @@
     <th>5 SEM</th>
   </tr>
   <tr>
-  <td align="center"><img width="800" alt="Screenshot 2024-08-03 at 1 03 16 AM" src="https://github.com/user-attachments/assets/f5fb297d-3678-4254-8a4b-d4d9f8b18f01"></td>
+  <td align="center"><img width="800" alt="Screenshot 2024-08-03 at 1 08 32 AM" src="https://github.com/user-attachments/assets/54f5f172-ec7a-400a-92c2-62c08b21cd72"></td>
   </tr>
 <tr>
     <th>6 SEM</th>
