@@ -77,5 +77,18 @@ The following matrices detail the structural breakdown of credit hours, core sub
 
 <div align="center">
   <br />
-  <sub>Maintained & Structured by <a href="https://github.com/ns7523">N S AKASH</a></sub>
+  <sub>Maintained & Structured by <a href="https://github.com/ns7523">N S AKASH</a></sub><br/>
+  
+  
+  <div align="center">
+
+<p>
+  <a href="https://github.com/ns7523"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://nsakash.in"><img src="https://img.shields.io/badge/Portfolio-0A84FF?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:contact@nsakash.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/nsakash7523"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+</div>
+
 </div>
