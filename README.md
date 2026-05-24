@@ -1,309 +1,81 @@
-<div align="center">
 
-<img src="assets/brand/hero.svg" alt="Karnataka Diploma CSE Curriculum" width="100%" />
+  <h1 align="center">Karnataka Diploma CSE (C-20)</h1>
+
+  <p align="center">
+    <strong>Standardized Curriculum Data & Resource Architecture.</strong>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Domain-Education_&_Curriculum-blue?style=flat-square" alt="Domain">
+    <img src="https://img.shields.io/badge/State-Karnataka-green?style=flat-square" alt="State">
+    <img src="https://img.shields.io/badge/Format-Structured_Data-orange?style=flat-square" alt="Format">
+  </p>
+</div>
 
 <br />
 
-<p>
-  <strong>Structured syllabus.</strong> <strong>Semester-wise learning path.</strong> <strong>Version-controlled education resources.</strong>
-</p>
+## Overview
 
-<p>
-  <code>C-20 Curriculum</code> · <code>Computer Science Engineering</code> · <code>Karnataka Diploma</code> · <code>Learning Resources</code>
-</p>
+This repository centralizes and structures the C-20 Curriculum Development frameworks for the **Diploma in Computer Science & Engineering** under the Department of Collegiate and Technical Education, Karnataka. It acts as a static, version-controlled registry for curriculum schematics, designed to provide high-availability access to syllabus matrices for students and educators.
 
-</div>
+### Engineering Utility
+By migrating static educational frameworks into a version-controlled repository, it allows for historical tracking of curriculum changes, transparent syllabus mapping, and programmatic access to educational matrices.
 
----
+<br />
+
+## Curriculum Schematics (Semesters 1-6)
+
+The following matrices detail the structural breakdown of credit hours, core subjects, and laboratory requirements across the standard 3-year engineering diploma.
+
+<table>
+  <tr>
+    <th align="center">Semester 1 Architecture</th>
+  </tr>
+  <tr>
+    <td align="center"><img width="800" alt="SEM 1" src="https://github.com/user-attachments/assets/18312528-ad8f-4db9-bb36-469bd28b8902"></td>
+  </tr>
+  <tr>
+    <th align="center">Semester 2 Architecture</th>
+  </tr>
+  <tr>
+  <td align="center"><img width="800" alt="SEM 2" src="https://github.com/user-attachments/assets/9f556704-6a75-40a0-95e3-7a9c79759f94"></td>
+  </tr>
+  <tr>
+    <th align="center">Semester 3 Architecture</th>
+  </tr>
+  <tr>
+  <td align="center"><img width="800" alt="SEM 3" src="https://github.com/user-attachments/assets/67ceceda-f989-46c2-9179-e730d02fc612"></td>
+  </tr>
+  <tr>
+    <th align="center">Semester 4 Architecture</th>
+  </tr>
+  <tr>
+  <td align="center"><img width="800" alt="SEM 4" src="https://github.com/user-attachments/assets/bdb8271a-3454-4cac-a9e5-acb229c60b49"></td>
+  </tr>
+  <tr>
+    <th align="center">Semester 5 Architecture</th>
+  </tr>
+  <tr>
+  <td align="center"><img width="800" alt="SEM 5" src="https://github.com/user-attachments/assets/54f5f172-ec7a-400a-92c2-62c08b21cd72"></td>
+  </tr>
+<tr>
+    <th align="center">Semester 6 Architecture</th>
+  </tr>
+  <tr>
+  <td align="center"><img width="800" alt="SEM 6" src="https://github.com/user-attachments/assets/7cb6c677-7132-4efd-858b-411586a39ccd"></td>
+  </tr>
+</table>
+
+<br />
+
+## Future Roadmap
+
+- [ ] Digitization of raw syllabus matrices into parsed JSON/YAML data structures for API ingestion.
+- [ ] Integration of direct link routing to corresponding open-source textbooks and resources.
+
+<br />
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%"><strong>Program</strong><br />Diploma CSE</td>
-<td align="center" width="25%"><strong>Scheme</strong><br />C-20</td>
-<td align="center" width="25%"><strong>Coverage</strong><br />Semesters 1–6</td>
-<td align="center" width="25%"><strong>Use</strong><br />Study Reference</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 01 · Overview
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### A structured curriculum repository for Diploma CSE
-
-This repository organizes the Karnataka Diploma Computer Science & Engineering C-20 curriculum into a clean, version-controlled learning reference.
-
-It is designed for students, educators, and maintainers who need a reliable index of semester-wise subjects, curriculum structure, and future digital learning resources.
-
-</td>
-<td width="42%" valign="top">
-
-```text
-┌──────────────────────────────┐
-│  CURRICULUM SYSTEM           │
-├──────────────────────────────┤
-│  Program    Diploma CSE      │
-│  Scheme     C-20             │
-│  Scope      Sem 1 to Sem 6   │
-│  Format     Docs + Assets    │
-│  Goal       Learning Index   │
-└──────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 02 · Curriculum Map
-
-<img src="assets/brand/curriculum-map.svg" alt="Six semester CSE curriculum map" width="100%" />
-
----
-
-## 03 · Semester Index
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Semester 1
-
-Foundation-level technical and general engineering subjects.
-
-</td>
-<td width="33%" valign="top">
-
-### Semester 2
-
-Core computing basics, mathematics, and engineering fundamentals.
-
-</td>
-<td width="33%" valign="top">
-
-### Semester 3
-
-Programming, database, digital concepts, and laboratory practice.
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### Semester 4
-
-Systems, software engineering, operating systems, and applied computing.
-
-</td>
-<td width="33%" valign="top">
-
-### Semester 5
-
-Advanced computer science subjects, electives, and practical skill development.
-
-</td>
-<td width="33%" valign="top">
-
-### Semester 6
-
-Project work, professional preparation, internships, and advanced applications.
-
-</td>
-</tr>
-</table>
-
----
-
-## 04 · Repository Workflow
-
-```mermaid
-flowchart LR
-    A[Curriculum Source] --> B[Semester Mapping]
-    B --> C[Subject Index]
-    C --> D[Learning Resources]
-    D --> E[Student Reference]
-```
-
----
-
-## 05 · Key Features
-
-| Feature | Purpose |
-|---|---|
-| Semester-wise structure | Organizes the CSE diploma path from Semester 1 to Semester 6. |
-| Curriculum reference | Provides a central place for syllabus and academic planning material. |
-| Version-controlled docs | Keeps updates and changes transparent through Git history. |
-| Learning-resource direction | Designed to evolve into notes, links, labs, and structured study guides. |
-| Student-friendly navigation | Clean sections for quick access to semester-level information. |
-| Educator-ready format | Suitable for maintaining curriculum data in a public repository. |
-
----
-
-## 06 · Tech / Documentation Stack
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-**Docs**
-
-Markdown  
-GitHub README
-
-</td>
-<td width="25%" valign="top">
-
-**Assets**
-
-SVG Graphics  
-Screenshots
-
-</td>
-<td width="25%" valign="top">
-
-**Data Direction**
-
-JSON  
-YAML  
-CSV
-
-</td>
-<td width="25%" valign="top">
-
-**Use Case**
-
-Curriculum Index  
-Study Planning
-
-</td>
-</tr>
-</table>
-
----
-
-## 07 · Usage
-
-Clone the repository:
-
-```bash
-git clone https://github.com/ns7523/Karnataka-Diploma-CSE.git
-cd Karnataka-Diploma-CSE
-```
-
-Use the repository as a reference index for curriculum materials, semester planning, and future structured resources.
-
----
-
-## 08 · Project Structure
-
-```text
-.
-├── assets/
-│   └── brand/
-│       ├── curriculum-map.svg
-│       └── hero.svg
-└── README.md
-```
-
-Recommended structure:
-
-```text
-.
-├── assets/
-│   ├── brand/
-│   └── screenshots/
-├── curriculum/
-│   ├── semester-1.md
-│   ├── semester-2.md
-│   ├── semester-3.md
-│   ├── semester-4.md
-│   ├── semester-5.md
-│   └── semester-6.md
-├── data/
-│   ├── subjects.json
-│   └── credits.yaml
-├── docs/
-│   ├── syllabus-index.md
-│   └── resources.md
-└── README.md
-```
-
----
-
-## 09 · Screenshots & Assets
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Semester Matrix
-
-`assets/screenshots/semester-matrix.png`
-
-Clean visual overview of all semester subjects.
-
-</td>
-<td width="50%" valign="top">
-
-### Subject Index
-
-`assets/screenshots/subject-index.png`
-
-Searchable list of subjects, credits, and labs.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Resource Map
-
-`assets/screenshots/resource-map.png`
-
-Links between subjects, notes, labs, and references.
-
-</td>
-<td width="50%" valign="top">
-
-### Curriculum Data
-
-`assets/screenshots/curriculum-data.png`
-
-Example structured JSON/YAML curriculum data.
-
-</td>
-</tr>
-</table>
-
----
-
-## 10 · Future Improvements
-
-- [ ] Convert semester screenshots into Markdown tables.
-- [ ] Add one file per semester under `curriculum/`.
-- [ ] Add structured subject data as JSON/YAML.
-- [ ] Add study resources and reference links per subject.
-- [ ] Add lab-program indexes where applicable.
-- [ ] Add a searchable subject index.
-- [ ] Add a formal open-source license.
-
----
-
-<div align="center">
-
-### N S Akash
-
-**AI & Cybersecurity Engineer**
-
-[GitHub](https://github.com/ns7523) · [LinkedIn](https://www.linkedin.com/in/nsakash7523) · [Portfolio](https://nsakash.in) · [Email](mailto:nsakash752003@gmail.com)
-
+  <br />
+  <sub>Maintained & Structured by <a href="https://github.com/ns7523">N S AKASH</a></sub>
 </div>
