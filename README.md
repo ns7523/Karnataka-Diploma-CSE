@@ -77,7 +77,7 @@ The following matrices detail the structural breakdown of credit hours, core sub
 
 <div align="center">
   <br />
-  <sub>Maintained & Structured by <a href="https://github.com/ns7523">N S AKASH</a></sub><br/>
+  <sub>Maintained & Structured by <a href="https://www.nsakash.in">N S AKASH</a></sub><br/>
   
   
   <div align="center">
